@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+
+    <string name="nombre">Jordi Desum</string>
+    <string name="telefono">55557777</string>
+    <string name="email">jdrcoursera@gmail.com</string>
+    
+    <!-- declarar una variable global de los parámetros -->
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
